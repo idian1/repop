@@ -26,7 +26,7 @@ against current vendor listings before citing.
 | ---------------------------------- | ----------------- |
 | `nkbihfbeogaeaoehlefnkodbefgpgknn` | MetaMask          |
 | `fhbohimaelbohpjbbldcngcnapndodjp` | BNB Chain Wallet  |
-| `hnfanknocfeofbddgcijnmhnfnkdnoad` | Coinbase Wallet   |
+| `hnfanknocfeofbddgcijnmhnfnkdnaad` | Coinbase Wallet   |
 | `bfnaelmomeimhlpmgjnjophhpkoljnlb` | Phantom           |
 | `ibnejdfjmmkpcnlpebklmnkoeoihofec` | TronLink          |
 | `aeachknmefphepccionboohckonoeemg` | Coin98            |

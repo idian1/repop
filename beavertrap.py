@@ -55,7 +55,7 @@ from dataclasses import dataclass, field, asdict
 KNOWN_WALLET_EXT_IDS = {
     "nkbihfbeogaeaoehlefnkodbefgpgknn": "MetaMask",
     "fhbohimaelbohpjbbldcngcnapndodjp": "BNB Chain Wallet",
-    "hnfanknocfeofbddgcijnmhnfnkdnoad": "Coinbase Wallet",
+    "hnfanknocfeofbddgcijnmhnfnkdnaad": "Coinbase Wallet",
     "bfnaelmomeimhlpmgjnjophhpkoljnlb": "Phantom",
     "ibnejdfjmmkpcnlpebklmnkoeoihofec": "TronLink",
     "aeachknmefphepccionboohckonoeemg": "Coin98",

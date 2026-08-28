@@ -65,8 +65,8 @@ Trimmed example, run against the bundled malicious test fixture (`tests/fixtures
 
   [SMOKING GUN] WALLET-EXT-ID  <-- hidden; found only after de-obfuscation
       install.js:2
-      Hardcodes crypto wallet browser-extension ID(s): MetaMask. Legitimate code
-      never enumerates these - this is a wallet stealer.
+      Hardcodes crypto wallet browser-extension ID(s): Coinbase Wallet, MetaMask.
+      Legitimate code never enumerates these - this is a wallet stealer.
       > nkbihfbeogaeaoehlefnkodbefgpgknn
 
   [SMOKING GUN] C2-BEAVERTAIL-PORT  <-- hidden; found only after de-obfuscation
