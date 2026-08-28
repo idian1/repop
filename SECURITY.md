@@ -18,7 +18,7 @@ Detection-quality issues are **normal bug reports** — please use the public Gi
 If you find a way to make a real malicious repo slip past beavertrap:
 
 - **Already-public techniques** (described in existing threat-intel reporting, conference talks, or blog posts): open a normal GitHub issue and cite the source. Discussing already-published evasion in the open helps everyone.
-- **Novel, not-yet-public techniques** — anything that would hand real attackers a working bypass before a fix exists: **do not open a public issue.** Contact the maintainer privately first at `TODO: contact method (e.g. security@yourdomain or a GitHub Security Advisory link)`. Please allow a reasonable window to ship a signature update before public disclosure.
+- **Novel, not-yet-public techniques** — anything that would hand real attackers a working bypass before a fix exists: **do not open a public issue.** Contact the maintainer privately first at **ahmad.suddle@gmail.com**. Please allow a reasonable window to ship a signature update before public disclosure.
 
 There is no bug-bounty program. This is a best-effort open-source project — see the maintenance status in the [README](README.md#maintenance-status).
 

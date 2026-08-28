@@ -149,12 +149,7 @@ See [`data/iocs.md`](data/iocs.md) for the specific indicators and their citatio
 
 ## Maintenance status
 
-**TODO: author to confirm.** State honestly which of these is true and delete the other:
-
-- *Pinned point-in-time release.* This is a `v0.1.0` snapshot reflecting the public threat intel available on 2026-08-29. It is **not** actively maintained; network IOCs will decay and are not being refreshed. Fork it and update `data/iocs.md` against current reporting before relying on it.
-- *Actively maintained.* Signatures in `data/iocs.md` are reviewed on a `TODO: cadence, e.g. monthly / quarterly` basis. Do not claim a cadence you won't keep.
-
-Either way: the durable detectors (wallet IDs, URL-path shapes, ports, obfuscation patterns) age well; the network IOCs do not.
+**Actively maintained.** Signatures in [`data/iocs.md`](data/iocs.md) are reviewed on a **quarterly** basis. Note that a quarterly cadence is slower than the rate at which *network* IOCs (IPs, domains, package names) decay — expect those to lag between reviews, and lean on the durable detectors (wallet IDs, URL-path shapes, ports, obfuscation patterns), which age well. Corrections and IOC updates via pull request are welcome between review cycles.
 
 ---
 
