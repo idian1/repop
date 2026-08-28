@@ -1,0 +1,40 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Local scratch / scanner working files ----
+# Directories used to stage or test-run real repos during development.
+# Keep test junk and any real cloned samples OUT of the tree.
+sample/
+samples/
+ci_sample/
+*_scratch/
+scratch/
+*.report.json
+report.json
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+# NOTE: .vscode/ is deliberately NOT ignored: tests/fixtures/malicious/.vscode/
+# tasks.json is a required, committed test fixture. Add your own editor config
+# to .git/info/exclude locally instead of ignoring .vscode/ tree-wide here.
+
+# NOTE: tests/fixtures/ is intentionally NOT ignored. Those inert fixtures are
+# committed on purpose and are required by tests/run_tests.sh.

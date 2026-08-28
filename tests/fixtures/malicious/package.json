@@ -1,0 +1,11 @@
+{
+  "name": "senior-fullstack-take-home",
+  "version": "1.0.0",
+  "description": "Take-home assessment - please complete before our next call.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node install.js",
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
