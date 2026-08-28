@@ -26,7 +26,7 @@ If beavertrap returns `HIGH` or `CRITICAL` and you have **already run** the code
 No package manager, no dependencies. Clone and run:
 
 ```bash
-git clone https://github.com/TODO-YOUR-NAME/beavertrap.git
+git clone https://github.com/Asuddle/beavertrap.git
 cd beavertrap
 python3 beavertrap.py /path/to/the/cloned/repo
 ```
